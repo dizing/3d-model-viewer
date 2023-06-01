@@ -1,0 +1,10 @@
+/**	@mainpage 
+ * 	3DViewer with qt. <br>
+ *	<a href="model_8h.html"> Model header</a><br />
+ *  <a href="vector_8h.html"> C Vector-like struct</a><br />
+ *  <a href="transf__matrix__generator_8h.html"> Matrix transformation generator</a><br />
+ *  <a href="parser_8h.html"> .obj parser</a><br />
+ *  <a href="settings__handler_8h.html"> settings file handler </a><br />
+ *  <a href="vertex__processor_8h.html"> Logic where Verices x Matrix processed</a><br />
+ *  <a href="viewer__blas_8h.html"> header with linear algebra logic</a><br />
+*/

@@ -1,0 +1,2 @@
+#cmakedefine SETTINGS_PATH "@SETTINGS_PATH@"
+#cmakedefine OBJECTS_PATH "@OBJECTS_PATH@"
